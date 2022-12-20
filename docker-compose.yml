@@ -24,7 +24,7 @@ services:
     environment:
       # ⚠️ Required:
       # Change this to your host's public address
-      - WG_HOST=130.61.148.26
+      - WG_HOST=130.61.73.42
 
       # Optional:
       - PASSWORD=
